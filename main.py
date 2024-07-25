@@ -11,7 +11,7 @@ from langchain.vectorstores import FAISS
 import threading
 
 from dotenv import load_dotenv
-load_dotenv() # Add your openai api key in the .env file (OPENAI_API_KEY="OPENAI_API_KEY")
+load_dotenv() # Add your openai api key in a .env file (OPENAI_API_KEY="OPENAI_API_KEY")
 
 
 
